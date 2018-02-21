@@ -1,0 +1,13 @@
+@using TodoProject.Models;
+@{
+  Layout = "_Layout";
+}
+
+<a href="Item/Form"><button type="button" class="btn">Create a New To-Do-List Item</button></a>
+
+<ul>
+  @foreach (Item item in Item.GetAll())
+  {
+  <li><a href="/Item/Info/@item.GetId()">@item.GetDescription()</a></li>
+  }
+</ul>

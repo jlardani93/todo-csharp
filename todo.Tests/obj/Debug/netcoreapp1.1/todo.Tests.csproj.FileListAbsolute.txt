@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/todo.Tests.deps.json
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/todo.Tests.runtimeconfig.json
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/todo.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/todo.Solution/todo.Tests/obj/Debug/netcoreapp1.1/todo.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/todo.Tests.dll
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/todo.Tests.pdb
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/todo.dll
+/Users/Guest/Desktop/todo.Solution/todo.Tests/bin/Debug/netcoreapp1.1/todo.pdb
+/Users/Guest/Desktop/todo.Solution/todo.Tests/obj/Debug/netcoreapp1.1/todo.Tests.dll
+/Users/Guest/Desktop/todo.Solution/todo.Tests/obj/Debug/netcoreapp1.1/todo.Tests.pdb

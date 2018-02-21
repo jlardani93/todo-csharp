@@ -1,0 +1,15 @@
+@{
+  Layout = "_Layout";
+}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2>To Do List ID: @Model.GetId()</h2>
+      <h3>Description: @Model.GetDescription()</h3>
+      <h3>Due Date: @Model.GetDueDate()<h3>
+      <a href="/"><button type="button" class="btn">See all Items!</button></a>
+      <a href="/Item/Delete/@Model.GetId()"><button type="button" class="btn">Delete this Item</button></a>
+    </div>
+  </div>
+</div>
